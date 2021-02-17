@@ -2,7 +2,7 @@
 <h3 align="center">Data Science and ML Enthusiast</h3>
 
 - 💬 Ask me about **Python, C, C++, SQL, Data Analysis and Data Visualization tools and techniques**
-- 📫 How to reach me **talktokhushboogoel@gmail.com**
+- 📫 How to reach me **syedsaadali1itx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,16 +14,16 @@
 
 ![Python](https://img.shields.io/badge/Python-Expert-green)
 ![C](https://img.shields.io/badge/C-Expert-blue)
-![C++](https://img.shields.io/badge/C++-Intermediate-lightgrey)
-![Java](https://img.shields.io/badge/Java-Intermediate-lightgrey)
-![SQL](https://img.shields.io/badge/SQL-Expert-orange)
+![C++](https://img.shields.io/badge/C++-Intermediate-orange)
+![Java](https://img.shields.io/badge/Java-Intermediate-pink)
+![SQL](https://img.shields.io/badge/SQL-Expert-darkblue)
 
 <h2 align="center">🛠️Tools & Technologies </h2>
 
-![Power_BI](https://img.shields.io/badge/Power_BI-Expert-yellow)
-![Tableau](https://img.shields.io/badge/Tableau-Expert-orange)
-![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Intermediate-lightgrey)
-![Deep_Learning](https://img.shields.io/badge/Deep_Learning-Beginner-red)
+![Power_BI](https://img.shields.io/badge/Power_BI-Expert-darkgreen)
+![Tableau](https://img.shields.io/badge/Tableau-Intermediate-orange)
+![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Intermediate-red)
+![Deep_Learning](https://img.shields.io/badge/Deep_Learning-Beginner-lightgrey)
 
 
 ___
