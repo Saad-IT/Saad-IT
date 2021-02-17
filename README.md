@@ -21,8 +21,8 @@
 <h2 align="center">🛠️Tools & Technologies </h2>
 
 ![Power_BI](https://img.shields.io/badge/Power_BI-Expert-darkgreen)
-![Tableau](https://img.shields.io/badge/Tableau-Intermediate-orange)
-![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Intermediate-red)
+![Tableau](https://img.shields.io/badge/Tableau-Intermediate-aqua)
+![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Intermediate-darkred)
 ![Deep_Learning](https://img.shields.io/badge/Deep_Learning-Beginner-lightgrey)
 
 
