@@ -1,12 +1,45 @@
 <h1 align="center">Hi 👋, I'm Syed Saad Ali</h1>
-<h3 align="center">Data Science and Macine Learnng Enthusiast</h3>
+<h3 align="center">Data Science and ML Enthusiast</h3>
 
-- 💬 Ask me about **Python, C, C++, SQL, Data Analysis and Data Visualization tools and techniques**
+- 📫 How to reach me **syedsaadali1itx@gmail.com@gmail.com**
 
-- 📫 How to reach me **syedsaadali1itx@gmail.com**
+<h2 align="center">🛠️ Languages & Frameworks</h2>
+
+![Python](https://img.shields.io/badge/Python-Expert-green)
+![C](https://img.shields.io/badge/C-Expert-blue)
+![C++](https://img.shields.io/badge/C++-Intermediate-lightgrey)
+![Java](https://img.shields.io/badge/Java-Intermediate-lightgrey)
+![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h2 align="center">⚙️ Tools and Technologies</h2>
+![Power BI](https://img.shields.io/badge/Power BI-Expert-green)
+![Tableau](https://img.shields.io/badge/Tableau-Intermediate-lightgrey)
+![Machine Learning](https://img.shields.io/badge/Machine Learning-Intermediate-lightgrey)
+![Deep Learning](https://img.shields.io/badge/Deep Learning-Beginner-red)
+
+
+
+
+
+<h2 align="center"> How to reach me </h2>
+
+[<img src="https://img.shields.io/badge/Linkedin-Syed Saad Ali-blue?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/saad-ali-syed-b88830193)
+
+
+___
+
+### 📈 **Github Stats**
+
+<a href="https://github.com/Saad-IT">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saad-IT&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+</a>
+<a href="https://github.com/Saad-IT/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Saad-IT&layout=compact&theme=blue-green" />
+</a>
+
+<!--
+**RemcoHalman/RemcoHalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 
