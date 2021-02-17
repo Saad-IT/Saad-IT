@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Saad Ali</h1>
 <h3 align="center">Data Science and ML Enthusiast</h3>
 
-- 📫 How to reach me **syedsaadali1itx@gmail.com@gmail.com**
-
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
 ![Python](https://img.shields.io/badge/Python-Expert-green)
@@ -13,10 +11,10 @@
 
 
 <h2 align="center">⚙️ Tools and Technologies</h2>
-![Power BI](https://img.shields.io/badge/Power BI-Expert-green)
+![Power BI](https://img.shields.io/badge/Power_BI-Expert-green)
 ![Tableau](https://img.shields.io/badge/Tableau-Intermediate-lightgrey)
-![Machine Learning](https://img.shields.io/badge/Machine Learning-Intermediate-lightgrey)
-![Deep Learning](https://img.shields.io/badge/Deep Learning-Beginner-red)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Intermediate-lightgrey)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Beginner-red)
 
 
 
@@ -24,7 +22,7 @@
 
 <h2 align="center"> How to reach me </h2>
 
-[<img src="https://img.shields.io/badge/Linkedin-Syed Saad Ali-blue?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/saad-ali-syed-b88830193)
+[<img src="https://img.shields.io/badge/Linkedin- -blue?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/saad-ali-syed-b88830193)
 
 
 ___
