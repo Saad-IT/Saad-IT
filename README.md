@@ -9,7 +9,7 @@
 ![Java](https://img.shields.io/badge/Java-Intermediate-lightgrey)
 ![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 
-
+<h2 align="center">🛠️ Languages & Frameworks </h2>
 
 ![Python](https://img.shields.io/badge/Python-Expert-green)
 ![C](https://img.shields.io/badge/C-Expert-blue)
