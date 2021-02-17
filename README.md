@@ -10,7 +10,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 
 
-<h2 align="center">⚙️ Tools and Technologies </h2>
+
 ![Python](https://img.shields.io/badge/Python-Expert-green)
 ![C](https://img.shields.io/badge/C-Expert-blue)
 ![C++](https://img.shields.io/badge/C++-Intermediate-lightgrey)
