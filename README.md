@@ -11,8 +11,8 @@
 
 <h2 align="center">🛠️ Languages & Frameworks </h2>
 
-![Power BI](https://img.shields.io/badge/Power BI-Expert-green)
-![C](https://img.shields.io/badge/C-Expert-blue)
+![Power_BI](https://img.shields.io/badge/Power_BI-Expert-green)
+![Tableau](https://img.shields.io/badge/Tableau-Expert-blue)
 ![C++](https://img.shields.io/badge/C++-Intermediate-lightgrey)
 ![Java](https://img.shields.io/badge/Java-Intermediate-lightgrey)
 ![SQL](https://img.shields.io/badge/SQL-Expert-orange)
