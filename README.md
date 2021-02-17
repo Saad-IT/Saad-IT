@@ -9,13 +9,13 @@
 ![Java](https://img.shields.io/badge/Java-Intermediate-lightgrey)
 ![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 
-<h2 align="center">🛠️ Languages & Frameworks </h2>
+<h2 align="center">🛠️Tools & Technologies </h2>
 
 ![Power_BI](https://img.shields.io/badge/Power_BI-Expert-green)
 ![Tableau](https://img.shields.io/badge/Tableau-Expert-blue)
-![C++](https://img.shields.io/badge/C++-Intermediate-lightgrey)
-![Java](https://img.shields.io/badge/Java-Intermediate-lightgrey)
-![SQL](https://img.shields.io/badge/SQL-Expert-orange)
+![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Intermediate-lightgrey)
+![Deep_Learning](https://img.shields.io/badge/Deep_Learning-Intermediate-lightgrey)
+
 
 
 
