@@ -11,10 +11,10 @@
 
 
 <h2 align="center">⚙️ Tools and Technologies</h2>
-![Power BI](https://img.shields.io/badge/Power_BI-Expert-green)
+![Power_BI](https://img.shields.io/badge/Power_BI-Expert-green)
 ![Tableau](https://img.shields.io/badge/Tableau-Intermediate-lightgrey)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Intermediate-lightgrey)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-Beginner-red)
+![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Intermediate-lightgrey)
+![Deep_Learning](https://img.shields.io/badge/Deep_Learning-Beginner-red)
 
 
 
