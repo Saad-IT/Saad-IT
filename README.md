@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Saad Ali</h1>
 <h3 align="center">Data Science and ML Enthusiast</h3>
 
+- 💬 Ask me about **Python, C, C++, SQL, Data Analysis and Data Visualization tools and techniques**
 - 📫 How to reach me **talktokhushboogoel@gmail.com**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saad-ali-syed-b88830193" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saad-IT" height="30" width="40" /></a>
@@ -25,10 +26,6 @@
 ![Deep_Learning](https://img.shields.io/badge/Deep_Learning-Beginner-red)
 
 
-
-
-
-
 ___
 
 ### 📈 **Github Stats**
@@ -39,9 +36,5 @@ ___
 <a href="https://github.com/Saad-IT/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Saad-IT&layout=compact&theme=blue-green" />
 </a>
-
-<!--
-**RemcoHalman/RemcoHalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 
