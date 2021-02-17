@@ -16,7 +16,7 @@
 ![C](https://img.shields.io/badge/C-Expert-blue)
 ![C++](https://img.shields.io/badge/C++-Intermediate-orange)
 ![Java](https://img.shields.io/badge/Java-Intermediate-pink)
-![SQL](https://img.shields.io/badge/SQL-Expert-darkblue)
+![SQL](https://img.shields.io/badge/SQL-Expert-darkyellow)
 
 <h2 align="center">🛠️Tools & Technologies </h2>
 
