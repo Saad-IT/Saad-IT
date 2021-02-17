@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Saad Ali</h1>
 <h3 align="center">Data Science and ML Enthusiast</h3>
 
-<h2 align="center">🛠️ Languages & Frameworks</h2>
+<h2 align="center">🛠️ Languages & Frameworks </h2>
 
 ![Python](https://img.shields.io/badge/Python-Expert-green)
 ![C](https://img.shields.io/badge/C-Expert-blue)
@@ -10,13 +10,12 @@
 ![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 
 
-<h2 align="center">⚙️ Tools and Technologies</h2>
-![Power%20BI](https://img.shields.io/badge/Power%20BI-Expert-green)
+<h2 align="center">⚙️ Tools and Technologies </h2>
+![Power BI](https://img.shields.io/badge/Power%20BI-Expert-green)
 ![Tableau](https://img.shields.io/badge/Tableau-Intermediate-lightgrey)
 ![MachineLearning](https://img.shields.io/badge/MachineLearning-Intermediate-lightgrey)
 ![DeepLearning](https://img.shields.io/badge/DeepLearning-Beginner-red)
 
-https://img.shields.io/badge/Machine__Learning-Expert-green
 
 
 
