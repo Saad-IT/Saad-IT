@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Syed Saad Ali</h1>
 <h3 align="center">Data Science and ML Enthusiast</h3>
 
+- 📫 How to reach me **talktokhushboogoel@gmail.com**
+- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/saad-ali-syed-b88830193" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saad-IT" height="30" width="40" /></a>
+</p>
+  
+  
 <h2 align="center">🛠️ Languages & Frameworks </h2>
 
 ![Python](https://img.shields.io/badge/Python-Expert-green)
@@ -19,11 +27,6 @@
 
 
 
-
-
-<h2 align="center"> How to reach me </h2>
-
-[<img src="https://img.shields.io/badge/Linkedin- -blue?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/saad-ali-syed-b88830193)
 
 
 ___
