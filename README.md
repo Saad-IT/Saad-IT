@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saad Ali Syed</h1>
 <h3 align="center">Data Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fakujaakko.com%2Fposts%2Fdata%2F&psig=AOvVaw1muvFrhe2lkgEcZ8OSZVp4&ust=1666444605305000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJCqr5q08foCFQAAAAAdAAAAABBN
-">
+<img align="right" alt="Coding" width="400" src="https://akujaakko.com/images/pipeline.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad-it&label=Profile%20views&color=0e75b6&style=flat" alt="saad-it" /> </p>
 
 - 💬 Ask me about **Ask me about Python, C, C++, SQL, Data Analysis and Data Visualization tools and techniques**
