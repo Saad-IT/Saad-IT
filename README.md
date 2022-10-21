@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Syed Saad Ali</h1>
-<h3 align="center">Data Science and ML Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Saad Ali Syed</h1>
+<h3 align="center">Data Engineer</h3>
 
 - 💬 Ask me about **Python, C, C++, SQL, Data Analysis and Data Visualization tools and techniques**
-- 📫 How to reach me **syedsaadali1itx@gmail.com**
+- 📫 How to reach me **saadali.syed.datapro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
